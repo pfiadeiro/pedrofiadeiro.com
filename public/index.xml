@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pedro Fiadeiro - Azure and random thoughts</title>
+    <link>https://pedrofiadeiro.com/</link>
+    <description>Recent content on Pedro Fiadeiro - Azure and random thoughts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 14 Jan 2021 07:06:32 +0000</lastBuildDate>
+    
+	<atom:link href="https://pedrofiadeiro.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Me</title>
+      <link>https://pedrofiadeiro.com/about/</link>
+      <pubDate>Thu, 14 Jan 2021 07:06:32 +0000</pubDate>
+      
+      <guid>https://pedrofiadeiro.com/about/</guid>
+      <description>My name is Pedro Fiadeiro</description>
+    </item>
+    
+    <item>
+      <title>Pedro</title>
+      <link>https://pedrofiadeiro.com/writing/pedro/</link>
+      <pubDate>Wed, 24 Jun 2020 23:41:29 +0100</pubDate>
+      
+      <guid>https://pedrofiadeiro.com/writing/pedro/</guid>
+      <description>Sou o Pedro</description>
+    </item>
+    
+    <item>
+      <title>My Second Post</title>
+      <link>https://pedrofiadeiro.com/2020/06/my-second-post/</link>
+      <pubDate>Wed, 24 Jun 2020 17:01:21 +0100</pubDate>
+      
+      <guid>https://pedrofiadeiro.com/2020/06/my-second-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://pedrofiadeiro.com/2020/06/my-first-post/</link>
+      <pubDate>Wed, 17 Jun 2020 19:17:54 +0100</pubDate>
+      
+      <guid>https://pedrofiadeiro.com/2020/06/my-first-post/</guid>
+      <description>My first blog post!</description>
+    </item>
+    
+  </channel>
+</rss>

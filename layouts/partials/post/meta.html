@@ -1,0 +1,18 @@
+{{ if not (eq .Params.showMeta false) }}
+  <div class="postShorten-meta post-meta">
+    {{ if not (eq .Params.showDate false)  }}
+      <time itemprop="datePublished" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
+        {{ partial "internal/date.html" . }}
+      </time>
+    {{ end }}
+
+    <!-- add reading time -->
+    <text> &nbsp; · &nbsp; {{ .ReadingTime }} min read</text>
+
+    <!-- add categories if page contains them -->
+    {{ if .Params.categories }}
+    	<text> &nbsp; · &nbsp; {{ partial "post/category.html" . }} </text>
+	  {{ end }}
+  </div>
+{{ end }}
+

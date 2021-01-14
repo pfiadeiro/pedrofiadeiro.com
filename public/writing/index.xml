@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Writings on Pedro Fiadeiro - Azure and random thoughts</title>
+    <link>https://pedrofiadeiro.com/writing/</link>
+    <description>Recent content in Writings on Pedro Fiadeiro - Azure and random thoughts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 24 Jun 2020 23:41:29 +0100</lastBuildDate>
+    
+	<atom:link href="https://pedrofiadeiro.com/writing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pedro</title>
+      <link>https://pedrofiadeiro.com/writing/pedro/</link>
+      <pubDate>Wed, 24 Jun 2020 23:41:29 +0100</pubDate>
+      
+      <guid>https://pedrofiadeiro.com/writing/pedro/</guid>
+      <description>Sou o Pedro</description>
+    </item>
+    
+  </channel>
+</rss>
