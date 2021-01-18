@@ -18,7 +18,7 @@ defaultContentLanguage = "en-us"
 title = "Pedro Fiadeiro - Azure and random thoughts"
 theme = "tranquilpeak"
 disqusShortname = "pfiadeiro"
-# googleAnalytics = "UA-123-45"
+googleAnalytics = "UA-187598338-1"
 paginate = 7
 canonifyurls = true
 
