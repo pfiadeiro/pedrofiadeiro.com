@@ -34,12 +34,12 @@ canonifyurls = true
   name = "Pedro Fiadeiro"
   bio = "Learning **Azure** and writing about it"
   job = "Business Intelligence Consultant"
-  location = "Sheffield, UK"
+  location = "Lisbon, Portugal"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
   # gravatarEmail = "thibaud.lepretre@gmail.com"
   # Your profile picture
   # Overwritten by your gravatar image if `author.gravatarEmail` is filled
-  picture = "https://res.cloudinary.com/dkdtxbglz/image/upload/v1603655006/Blog%20Images/IMG-20200322-WA0004_xuvebl.jpg"
+  picture = "https://res.cloudinary.com/pedrofiadeiro/w_200,f_auto,q_auto/v1611424978/Blog%20Images/profile_pic.jpg"
   # Your Twitter username without the @. E.g : thibaudlepretre
   twitter = "plfiadeiro"
   # Your google plus profile id. E.g : +ThibaudLepretre or 114625208755123718311
@@ -148,7 +148,7 @@ canonifyurls = true
   # Current image is on AWS S3 and delivered by AWS CloudFront.
   # Otherwise put your image, for example `cover.jpg` in folder `static/images/`,
   # and use relative url : `images/cover.jpg`
-  coverImage = "https://res.cloudinary.com/dkdtxbglz/image/upload/v1603705422/Blog%20Images/TorreBelem.jpg"
+  coverImage = "https://res.cloudinary.com/pedrofiadeiro/w_1200,f_auto,q_auto/v1603705422/Blog%20Images/TorreBelem.jpg"
 
   # Display an image gallery at the end of a post which have photos variables (false: disabled, true: enabled)
   imageGallery = true
@@ -214,5 +214,6 @@ canonifyurls = true
      url = "/about"
 
   # Customize copyright value "© 2017 <CUSTOMIZATION>. All Rights Reserved"
- # [params.footer]
- #    copyright = "Pedro Fiadeiro <br>Made with ❤ by "
+  [params.footer]
+     copyright = "Pedro Fiadeiro"
+     license = "<u><a style=\"color: inherit\" href=\"https://creativecommons.org/licenses/by-nc/4.0/\" target=\"_blank\" rel=\"noopener\">CC BY-NC 4.0</a></u>"
