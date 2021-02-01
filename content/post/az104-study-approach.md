@@ -7,6 +7,7 @@ keywords: [AZ-104, Azure]
 thumbnailImage: https://res.cloudinary.com/pedrofiadeiro/f_auto,q_auto/v1611816909/Blog%20Images/azure-administrator-associate.png
 summary: Last August, I passed exam AZ-104 Microsoft Azure Administrator. What I'll do in this blog post is share how I studied for this exam, which resources I used and what worked for me. 
 ---
+{{< image classes="center" src="https://res.cloudinary.com/pedrofiadeiro/f_auto,q_auto,w_250/v1611816909/Blog%20Images/azure-administrator-associate.png" >}}
 
 Last August, I passed exam **AZ-104 Microsoft Azure Administrator**. What I'll do in this blog post is share how I studied for this exam, which resources I used and what worked for me. 
 
