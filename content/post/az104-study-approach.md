@@ -4,7 +4,7 @@ date: 2021-01-28T07:16:26Z
 categories: [How-To]
 tags: [Azure, AZ-104, Certifications]
 keywords: [AZ-104, Azure]
-thumbnailImage: /img/post/az104-study-approach/azure-administrator-associate.png
+thumbnailImage: https://res.cloudinary.com/pedrofiadeiro/f_auto,q_auto,w_250/v1611816909/Blog%20Images/azure-administrator-associate.png
 summary: Last August, I passed exam AZ-104 Microsoft Azure Administrator. What I'll do in this blog post is share how I studied for this exam, which resources I used and what worked for me. 
 ---
 
