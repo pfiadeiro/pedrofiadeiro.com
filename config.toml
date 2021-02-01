@@ -15,7 +15,7 @@
 baseURL = "https://pedrofiadeiro.com"
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
-title = "Pedro Fiadeiro - Azure and random thoughts"
+title = "pedrofiadeiro.com"
 theme = "tranquilpeak"
 disqusShortname = "pfiadeiro"
 googleAnalytics = "UA-187598338-1"
