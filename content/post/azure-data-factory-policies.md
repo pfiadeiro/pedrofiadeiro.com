@@ -4,7 +4,6 @@ date: 2021-02-21T07:00:00Z
 categories: [How-To, Governance]
 tags: [Azure, Data Factory, Azure Policy]
 keywords: [Azure, Data Factory, Azure Policy]
-draft: true
 thumbnailImage: https://res.cloudinary.com/pedrofiadeiro/image/upload/v1613392669/Blog%20Images/Data-Factory-Policies/azure-data-factory-policies.png
 summary: Azure Policies are an essential component of governance in Azure. We can now implement policies in Data Factory and we'll use this blog post to look at a few examples of how they can be applied
 ---
