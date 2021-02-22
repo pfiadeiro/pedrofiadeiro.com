@@ -123,7 +123,7 @@ canonifyurls = true
 
   # Define categories will create hierarchy between parents: `categories = ["foo", "bar"]` will consider "bar" a sub-category of "foo".
   # If false it will flat categories.
-  hierarchicalCategories = true
+  hierarchicalCategories = false
 
   description = "Azure"
 
