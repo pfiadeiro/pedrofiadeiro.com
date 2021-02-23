@@ -1,6 +1,6 @@
 ---
 title: "Azure Data Factory Policies"
-date: 2021-02-21T07:00:00Z
+date: 2021-02-23T07:00:00Z
 categories: [How-To, Governance]
 tags: [Azure, Data Factory, Azure Policy]
 keywords: [Azure, Data Factory, Azure Policy]
@@ -364,6 +364,7 @@ We now need to create an assignment with the custom policy definition to evaluat
      - ***Scope***: Select the resource group you created in the prerequisites section
    - **Parameters** tab:
      - ***Effect***: Audit (default value) 
+     - ***Linked services types***: Check all 5 available in the list
    - **Non-compliance messages** tab:
      - ***Non-compliance message***: Insert message that will show when resource isn't compliant
    - **Review + create** tab:
