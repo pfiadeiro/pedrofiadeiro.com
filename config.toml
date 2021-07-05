@@ -18,12 +18,13 @@ defaultContentLanguage = "en-us"
 title = "pedrofiadeiro.com"
 theme = "tranquilpeak"
 disqusShortname = "pfiadeiro"
-googleAnalytics = "UA-187598338-1"
+# googleAnalytics = "UA-187598338-1"
+googleAnalytics = "G-V40VYWBFQF"
 paginate = 7
 canonifyurls = true
 
 [permalinks]
-  post = "/:year/:month/:slug/"
+  post = "/:slug/"
 
 [taxonomies]
   tag = "tags"
