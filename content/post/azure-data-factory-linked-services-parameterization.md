@@ -1,6 +1,6 @@
 ---
 title: "Azure Data Factory Linked Services Parameterization"
-date: 2021-07-19T08:00:00Z
+date: 2021-07-19T07:00:00Z
 categories: [How-To]
 tags: [Azure, Data Factory]
 keywords: [Azure, Data Factory, Linked Services]
